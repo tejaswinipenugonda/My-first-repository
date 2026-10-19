@@ -1,2 +1,13 @@
-# My-first-repository
-My first GitHub repository to learn git and github
+# About Me
+
+Hi! I'm Tejaswini.
+
+## My Learning Journey
+
+- Learning Python
+- Exploring Git and GitHub
+- Interested in Cloud Computing
+
+## My Goal
+
+Become a Cloud Engineer.
