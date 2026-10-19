@@ -11,3 +11,9 @@ Hi! I'm Tejaswini.
 ## My Goal
 
 Become a Cloud Engineer.
+## Technologies I Want to Learn
+
+- AWS
+- Linux
+- Git
+- Python
